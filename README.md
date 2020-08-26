@@ -10,7 +10,7 @@
 <br>
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
-<img align = "left" alt="C++" width = "51px" src="https://i.pinimg.com/originals/b9/f3/06/b9f3069375a94e44f01a1946aaeca93b.png" />
+<img align = "left" alt="C++" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
