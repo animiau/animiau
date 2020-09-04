@@ -42,7 +42,6 @@
 <a href="https://instagram.com/itsaniketdubey"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aniket-dubey-508a63174/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-[(https://cp-logo.vercel.app/hackerrank/hades23)] <br>
 ### Github Stats
 
 <img alt="Aniket Dubey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsaniketdubey&show_icons=true&count_private=true" />
