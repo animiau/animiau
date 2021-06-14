@@ -4,7 +4,7 @@
 ## I'm currently a Student
 
 - 🔭 I’m learning JavaScript.
-- 🥅 2020 Goals: Contribute more to Open Source projects, become a frontend developer.
+- 🥅 2021 Goals: Contribute more to Open Source projects, become a frontend developer.
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
 ### Languages and Tools:
 <br>
