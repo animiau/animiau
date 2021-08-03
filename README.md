@@ -7,7 +7,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, become a frontend developer.
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
 ### Languages and Tools:
-<br>
+
+<img align="left" alt="Java" width="27px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
