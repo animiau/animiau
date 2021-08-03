@@ -20,8 +20,6 @@
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
@@ -42,8 +40,9 @@
 <a href="https://instagram.com/itsaniketdubey"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aniket-dubey-508a63174/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 ## Github Stats
 
 <img alt="Aniket Dubey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsaniketdubey&show_icons=true&count_private=true" />
 
-[WORK UNDER PROGRESS]
+
