@@ -20,7 +20,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
-<img align="left" alt="Bootstrap" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+<img align="left" alt="Bootstrap" width="47px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
 <img align="left" alt="django" width="67px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" />
 
