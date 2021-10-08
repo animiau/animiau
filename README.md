@@ -10,6 +10,8 @@
 
 <img align="left" alt="Java" width="27px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
+<img align="left" alt="django" width="27px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" />
+
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
 <img align = "left" alt="C++" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
