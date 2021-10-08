@@ -10,7 +10,7 @@
 
 <img align="left" alt="Java" width="27px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
-<img align="left" alt="django" width="27px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" />
+<img align="left" alt="django" width="67px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" />
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
