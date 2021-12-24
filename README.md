@@ -1,5 +1,5 @@
  <h1> Hola, I'm Aniket Dubey 👋 </h1>
-<p> Tech enthusiast and a Gamer. A 19-year old Computer Science student from NMIMS' MPSTME. When I'm not developing and building things, you can find me on Youtube learning, watching anime or playing video games. My current interest includes frontend, building android roms & kernels.</p>
+<p> Tech enthusiast and a Gamer. A 20-year old Computer Science student from NMIMS' MPSTME. When I'm not developing and building things, you can find me on Youtube learning, watching anime or playing video games. My current interest includes frontend, building android roms & kernels.</p>
 
 ## I'm currently a Student
 
