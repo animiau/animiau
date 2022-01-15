@@ -4,7 +4,7 @@
 ## I'm currently a Student
 
 - 🔭 I’m learning JavaScript.
-- 🥅 2021 Goals: Contribute more to Open Source projects, become a frontend developer.
+- 🥅 2022 Goals: Contribute more to Open Source projects, become a frontend developer.
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
 ### Languages and Tools:
 
@@ -40,7 +40,7 @@
 <p align='center'>
 <a href="https://twitter.com/aniketrmcf"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/itsaniketdubey"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aniket-dubey-508a63174/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/aniketdubey/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ## Github Stats
