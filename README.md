@@ -1,5 +1,4 @@
  <h1> Hola, I'm Aniket Dubey 👋 </h1>
-<p> A 20-year old Computer Science student from NMIMS' MPSTME. My current interest includes product management, building android roms & kernels.</p>
 
 ## I'm currently a Student
 
