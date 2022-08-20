@@ -2,7 +2,6 @@
 
 ## I'm currently a Student
 
-- 🔭 I’m currently learning about Finance & Product Management .
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
 ### Languages and Tools:
