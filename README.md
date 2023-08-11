@@ -2,7 +2,7 @@
 
 ## I'm currently a Student
 
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
 ### Languages and Tools:
 
@@ -36,8 +36,6 @@
 
  ## Reach me on these platforms
 <p align='center'>
-<a href="https://twitter.com/aniketrmcf"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/itsaniketdubey"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aniketdubey/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
