@@ -1,8 +1,8 @@
- <h1> Hola, I'm Aniket Dubey 👋 </h1>
+ <h1> Hola👋 </h1>
 
 ## I'm currently a Student
 
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Hobbies: Football, playing video games, watching anime, listening to podcasts.
 ### Languages and Tools:
 
@@ -33,14 +33,8 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
 <br />
-
- ## Reach me on these platforms
-<p align='center'>
-<a href="https://www.linkedin.com/in/aniketdubey/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
 ## Github Stats
 
-<img alt="Aniket Dubey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsaniketdubey&show_icons=true&count_private=true" />
+<img alt="animiau's Github Stats" src="https://github-readme-stats.vercel.app/api?username=animiau&show_icons=true&count_private=true" />
 
 
